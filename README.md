@@ -99,19 +99,3 @@ These results suggest that TRGB stars do **not follow a universal period–lumin
 
 ---
 
-## Example Outputs
-
-The analysis produced several plots, including:
-
-- **Color–Magnitude Diagrams (CMDs)** for globular clusters
-- **Phase-folded light curves**
-- **Lomb–Scargle periodograms**
-- **Period–Luminosity scatter plots**
-
-Example:
-
-![Period Luminosity Plot](figures/period_luminosity_plot.png)
-
----
-
-## Repository Structure
