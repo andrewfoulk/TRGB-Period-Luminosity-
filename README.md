@@ -1,6 +1,6 @@
 # TRGB Period–Luminosity Analysis in Globular Clusters
 
-📄 **Research Paper:** [TRGB Period–Luminosity Analysis](paper/TRGB_period_luminosity_paper.pdf)
+📄 **Research Paper:** [TRGB Period–Luminosity Analysis](ASTR%20310%20P-L%20Relationship%20in%20TRGB%20Stars.pdf)
 
 This project investigates whether **Tip of the Red Giant Branch (TRGB) stars** exhibit a measurable **period–luminosity relationship** that could be used for astronomical distance measurements.
 
