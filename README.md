@@ -96,6 +96,3 @@ Key findings:
 - No statistically significant **global period–luminosity relationship** was observed.
 
 These results suggest that TRGB stars do **not follow a universal period–luminosity relation**, consistent with previous literature on red giant variability.
-
----
-
